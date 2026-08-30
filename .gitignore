@@ -1,0 +1,19 @@
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Dépendances / build
+vendor/
+node_modules/
+
+# Cache & logs PrestaShop
+cache/
+*.log
+
+# Config locale / secrets
+*.local.php
+.env
